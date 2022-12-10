@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">FirstAppIzofatov</string>
+
+    <string name="textView1">Hello World</string>
 </resources>
